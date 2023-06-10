@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Rabix full stack react & python developer from Poland<br><br>- 🔭 I’m working on big react projects<br>- 📚 I'm currently learning Chakra-UI<br>- ⚡ In my free time I learn new things</p>
+<p align="left">I'm Rabix react & python developer from Poland<br><br>- 🔭 I’m working on big react projects<br>- 📚 I'm currently learning Chakra-UI<br>- ⚡ In my free time I learn new things</p>
 
 ###
 
