@@ -21,22 +21,16 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center">Cześć 👋</h1>
 
 ###
 
-## About Me
+## O mnie
 
 React enjoyer, Python enjoyer — po prostu robię rzeczy, które działają.  
 Obecnie buduję większe projekty w React / Next.js, stale poszerzam stack i dokładam kolejne cegły do własnego biznesu.
 
-- 🔭 Pracuję nad dużymi projektami w React / Next.js  
-- 📚 Aktualnie wjeżdża Chakra UI i głębsze ogarnianie UI/UX  
-- ⚡ Po godzinach — nowe technologie, automatyzacje, AI i eksperymenty
-
 ---
-
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
